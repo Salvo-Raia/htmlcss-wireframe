@@ -4,3 +4,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Card style */ 
+.card {
+    width: 400px;
+    height: 180px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px auto;
+}
