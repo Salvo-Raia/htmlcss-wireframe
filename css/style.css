@@ -5,12 +5,6 @@
     box-sizing: border-box;
 }
 
-/* Body size */ 
-body {
-    width: 512px;
-    border: 2px dashed black;
-} 
-
 /* Card style */ 
 .card {
     width: 400px;
