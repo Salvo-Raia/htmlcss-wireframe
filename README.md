@@ -19,11 +19,11 @@ Recreate the wireframe provided in the reference image.
 
 Focus on implementing spacing using CSS box model properties.
 
-The goal is not to match the exact measurements of the original design, but to achieve consistent and harmonious spacing throughout the layout.
+The goal is not to match the exact measurements of the original design, but to achieve consistent and harmonious spacing throughout the layout. Work with the browser Inspector open alongside your editor. Use it to experiment with different values and only transfer the code you are happy with to your editor.
 
-- Work with the browser Inspector open alongside your editor. Use it to experiment with different values and only transfer the code you are happy with to your editor.
-- Set `width: 512px` on the `body` to simulate a smartphone screen by forcing the page width.
-- If needed, add a dashed border to the `body` to make its boundaries visible.
+Set `width: 512px` on the `body` to simulate a smartphone screen by forcing the page width.
+
+If needed, add a dashed border to the `body` to make its boundaries visible.
 
 **Notes**
 
