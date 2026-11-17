@@ -1,6 +1,6 @@
-![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 03/50 - HTML & CSS Wireframe
+# 🎓 Exercise 03/50: HTML & CSS Wireframe
 
 Recreating a wireframe using HTML and CSS, focusing on spacing and the box model.
 
@@ -46,4 +46,4 @@ The goal is not to match the exact measurements of the original design, but to a
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
