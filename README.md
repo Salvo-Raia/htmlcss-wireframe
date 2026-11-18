@@ -25,7 +25,7 @@ Set `width: 512px` on the `body` to simulate a smartphone screen by forcing the 
 
 If needed, add a dashed border to the `body` to make its boundaries visible.
 
-**Notes**
+##### Notes
 
 - If you add only a few cards, the footer might not reach the bottom of the page. If you add too many, the footer might only be visible after scrolling. Both behaviors are expected at this stage. Try to get as close as possible to the bottom edge, but don't worry too much about it. Later, we will learn how to make content occupy the full available height on different screens.
 - Cards should maintain the same height even when some contain less text than others. However, if a card contains more text, it should become taller. This is the expected behavior. Think about which CSS property could achieve this and experiment to make sure it works correctly.
