@@ -8,7 +8,7 @@ Recreating a wireframe using HTML and CSS, focusing on spacing and the box model
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| htmlcss-wireframe | HTML & CSS Wireframe | Exercise | HTML, CSS & Box Model | 03/50 |
+| htmlcss-wireframe | HTML & CSS Wireframe | Exercise | HTML, CSS & Box model | 03/50 |
 
 ## Assignment
 
