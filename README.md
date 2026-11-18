@@ -4,14 +4,11 @@
 
 Recreating a wireframe using HTML and CSS, focusing on spacing and the box model.
 
-## Project Overview
+## Project overview
 
-| Property | Details |
-|:--|:--|
-| Repository | htmlcss-wireframe |
-| Category | Boolean Tech Academy |
-| Type | Exercise |
-| Exercise | 03/50 |
+| Repository | Project | Category | Main Focus | Exercise |
+|:--|:--|:--|:--|:--|
+| htmlcss-wireframe | HTML & CSS Wireframe | Exercise | HTML, CSS & Box Model | 03/50 |
 
 ## Assignment
 
